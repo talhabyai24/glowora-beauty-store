@@ -1,0 +1,6 @@
+{
+  "name": "GLOWORA — Luxury Beauty & Section Builder",
+  "description": "Modular black-and-gold luxury beauty storefront and live section builder featuring skincare, makeup, fragrances, and curated beauty rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
